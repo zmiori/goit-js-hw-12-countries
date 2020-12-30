@@ -20,7 +20,7 @@ function makeCountriesMarkup(countries) {
       title: 'Too many matches found',
       text: 'Please enter a more specific query!',
       animation: 'fade',
-      delay: 10000,
+      delay: 4000,
       addClass: 'my-error',
     });
   } else {
